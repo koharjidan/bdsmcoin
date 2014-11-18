@@ -1,0 +1,29 @@
+
+BDSM
+
+Algorithm SHA256
+6.9 million BDSM 
+23 BDSM per block 
+Rewards halves 200k 
+Minimum reward 11.5 BDSM 
+Maximum blocks to mine 400k 
+No PoS (ever)
+
+Block time 60 seconds 
+Retarget every couple of blocks 
+
+
+BDSM.conf
+
+rpcuser=
+rpcpassword=
+rpcallowip=127.0.0.1
+rpcport=22119
+port=22118
+server=1
+daemon=1
+listen=1
+addnode=188.226.162.76
+addnode=178.62.150.165
+addnode=104.131.234.129
+
