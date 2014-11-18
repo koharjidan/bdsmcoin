@@ -114,13 +114,13 @@ public:
         pchMessageStart[1] = 0xfe;
         pchMessageStart[2] = 0xfe;
         pchMessageStart[3] = 0x05;
-        nDefaultPort = 55534;
-        nRPCPort = 55535;
+        nDefaultPort = 69000;
+        nRPCPort = 69001;
         strDataDir = "testnet";
 
         // Modify the testnet genesis block so the timestamp is valid for a later start.
-        genesis.nTime = 1374901773;
-        genesis.nNonce = 1211565;
+        genesis.nTime = 1410084058;
+        genesis.nNonce = 1166270;
         
         
         //// debug print
