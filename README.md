@@ -1,12 +1,8 @@
 BDSM-qt and Fetish-qt updates 22nd November 2014
 
-Versions 6.9.6.9
-
-Required wallet change
+Versions 6.9.6.9: Required wallet change
 
 _____________________
-
-BDSM-qt
 
 6.9 million coins
 
@@ -74,6 +70,3 @@ The last 65,000 of the 690,000 FETISH play be the new rules. This might not seem
 _____________________
 
 bdsm-fetish.net
-
-
-BDSM-Fetish.net
