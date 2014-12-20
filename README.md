@@ -1,2 +1,2 @@
-BDSM update due 300,000 blocks
-bdsm-fetish.net
+BDSM update due 300,000 blocks, 
+see: bdsm-fetish.net
