@@ -67,9 +67,9 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0x66314d0f2fb90ffec9b516ac19256381e2cd835719a741dda3553363f5a584ed"));
 
         vSeeds.push_back(CDNSSeedData("162.243.213.10", "188.226.162.76"));
-        vSeeds.push_back(CDNSSeedData("198.27.125.17", "62.121.62.174"));
-        vSeeds.push_back(CDNSSeedData("108.61.10.90", "104.131.55.205"));
-        vSeeds.push_back(CDNSSeedData("162.243.124.149", "178.62.150.165"));
+        vSeeds.push_back(CDNSSeedData("104.131.234.129", "178.62.150.165"));
+        vSeeds.push_back(CDNSSeedData("162.243.124.149", "62.121.62.174"));
+        vSeeds.push_back(CDNSSeedData("104.28.20.109", "198.41.191.230"));
 
 
         base58Prefixes[PUBKEY_ADDRESS] = 75;
