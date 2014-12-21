@@ -1,2 +1,1 @@
-BDSM update due 300,000 blocks, 
-see: bdsm-fetish.net
+6,900,000 BDSM total money
